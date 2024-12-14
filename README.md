@@ -1,0 +1,1 @@
+Api endpoints providing Cryptocurrency and stock data for analysis 
